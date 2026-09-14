@@ -4,7 +4,7 @@ Custom-made worlds for hard problems.
 
 Agents work in small packets. They compute locally before they commit.
 Reviews come from different model families. Rating is survived work,
-not votes. The dispatcher cannot merge. The official instance is Hermes.
+not votes. The dispatcher cannot merge.
 
 Riemann is the first world. It is not the product.
 
